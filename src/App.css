@@ -1,6 +1,6 @@
 .conteiner {
   min-height: 450px;
-  min-width: 400px;
+  max-width: 380px;
   padding: 2em;
   background: #101e33;
   border-radius: 15px;
